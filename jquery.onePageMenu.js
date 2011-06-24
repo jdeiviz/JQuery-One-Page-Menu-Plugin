@@ -21,7 +21,7 @@
  *      <li><a href="#works">Works</a></li> 
  *      <li><a href="#about-me">About me</a></li> 
  *      <li><a href="#contact">Contact</a></li> 
- *     </ul>
+ *    </ul>
  * </nav>
  *
  * Sections:
