@@ -17,7 +17,7 @@
  * 
  * <nav> 
  *    <ul> 
- *	    <li><a href="#hello">Hello</a></li> 
+ *		<li><a href="#hello">Hello</a></li> 
  *      <li><a href="#works">Works</a></li> 
  *      <li><a href="#about-me">About me</a></li> 
  *      <li><a href="#contact">Contact</a></li> 
