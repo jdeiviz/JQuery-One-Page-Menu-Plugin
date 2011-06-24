@@ -9,6 +9,8 @@
  *
  * @version 1.0
  *
+ * Contributor Jorge Rigabert (@jrigabert www.jorgerigabert.com)
+ *
  * Example usage:
  * 
  * Menu:
